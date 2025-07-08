@@ -6,21 +6,21 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: "Priya Sharma",
-      location: "Mumbai",
+      location: "Guntur",
       image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop",
       rating: 5,
-      text: "Elegant Interiors transformed our home completely. The attention to detail and creativity exceeded our expectations. Our living space now feels like a luxury hotel!"
+      text: "Pavan Interiors transformed our home completely. The attention to detail and creativity exceeded our expectations. Our living space now feels like a luxury hotel!"
     },
     {
       name: "Rajesh Kumar",
-      location: "Delhi",
+      location: "Vijayawada",
       image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop",
       rating: 5,
       text: "Professional, timely, and within budget. The team understood our vision perfectly and delivered beyond what we imagined. Highly recommended for anyone looking for quality interior design."
     },
     {
       name: "Anita Patel",
-      location: "Bangalore",
+      location: "Guntur",
       image: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop",
       rating: 5,
       text: "The commercial space design for our restaurant was outstanding. It perfectly captures our brand identity and creates the perfect ambiance for our customers."

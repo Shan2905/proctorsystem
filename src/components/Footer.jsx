@@ -19,10 +19,10 @@ const Footer = () => {
           <Col lg={4} md={6} className="mb-4">
             <div className="d-flex align-items-center mb-3">
               <Home className="me-2" size={24} />
-              <h5 className="mb-0">Elegant Interiors</h5>
+              <h5 className="mb-0">Pavan Interiors</h5>
             </div>
             <p className="mb-3">
-              Transforming spaces across India with innovative design solutions. 
+              Transforming spaces across Andhra Pradesh and India with innovative design solutions. 
               We create beautiful, functional interiors that reflect your personality and lifestyle.
             </p>
             <div className="d-flex gap-3">
@@ -105,7 +105,7 @@ const Footer = () => {
             <h6 className="mb-3">Contact Info</h6>
             <div className="d-flex align-items-center mb-2">
               <MapPin size={16} className="me-2 text-warning" />
-              <span className="text-white-50">Mumbai, Maharashtra</span>
+              <span className="text-white-50">Vijayawada, Andhra Pradesh</span>
             </div>
             <div className="d-flex align-items-center mb-2">
               <Phone size={16} className="me-2 text-warning" />
@@ -113,7 +113,7 @@ const Footer = () => {
             </div>
             <div className="d-flex align-items-center mb-2">
               <Mail size={16} className="me-2 text-warning" />
-              <span className="text-white-50">info@elegantinteriors.com</span>
+              <span className="text-white-50">pavanncherukuri@gmail.com</span>
             </div>
           </Col>
         </Row>
@@ -123,7 +123,7 @@ const Footer = () => {
         <Row>
           <Col md={6}>
             <p className="mb-0 text-white-50">
-              © {currentYear} Elegant Interiors. All rights reserved.
+              © {currentYear} Pavan Interiors. All rights reserved.
             </p>
           </Col>
           <Col md={6} className="text-md-end">

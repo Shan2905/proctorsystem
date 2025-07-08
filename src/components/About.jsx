@@ -31,9 +31,9 @@ const About = () => {
       <Container>
         <Row className="mb-5">
           <Col lg={6}>
-            <h2 className="section-title text-start">About Elegant Interiors</h2>
+            <h2 className="section-title text-start">About Pavan Interiors</h2>
             <p className="lead mb-4">
-              With over 15 years of experience in transforming spaces across India, 
+              With over 15 years of experience in transforming spaces across Andhra Pradesh and India, 
               we are passionate about creating interiors that inspire and delight.
             </p>
             <p className="mb-4">

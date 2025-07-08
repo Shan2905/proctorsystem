@@ -18,7 +18,6 @@ function App() {
       <Services />
       <Portfolio />
       <Stats />
-      <Testimonials />
       <Contact />
       <Footer />
     </div>

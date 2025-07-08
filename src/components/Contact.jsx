@@ -50,13 +50,13 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@elegantinteriors.com", "projects@elegantinteriors.com"],
+      details: ["pavanncherukuri@gmail.com", "projects@pavaninteriors.com"],
       subtitle: "We'll respond within 24 hours"
     },
     {
       icon: MapPin,
       title: "Visit Our Studio",
-      details: ["123 Design Street", "Mumbai, Maharashtra 400001"],
+      details: ["Design Plaza, MG Road", "Vijayawada, Andhra Pradesh 520010"],
       subtitle: "By appointment only"
     },
     {

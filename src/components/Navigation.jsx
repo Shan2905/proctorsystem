@@ -31,7 +31,7 @@ const Navigation = () => {
       <Container>
         <Navbar.Brand href="#home" className="d-flex align-items-center">
           <Home className="me-2" size={24} />
-          Elegant Interiors
+          Pavan Interiors
         </Navbar.Brand>
         
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
